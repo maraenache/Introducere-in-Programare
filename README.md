@@ -20,5 +20,5 @@ cos ( 2 ^ 3 + 4 / 5 + 678 * 98 )
 
 234 + 1234 + 12345 + 234 + 67 * 89 - 234 + 56 
 
-programul va afisa pe ecran expresia matematica (utilizand simbolurile corespunzatoare)
+programul va afisa pe ecran expresia matematica (utilizand simbolurile corespunzatoare), afisarea arborelui de sintaxa si evaluarea expresiei. 
 
