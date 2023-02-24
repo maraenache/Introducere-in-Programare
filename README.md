@@ -1,5 +1,6 @@
 # Introducere-in-Programare
-Proiect
+Proiect de echipa realizat impreuna cu Mihai Nicoleta 
+
 Editor de formule matematice
 
 
