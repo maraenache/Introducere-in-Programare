@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641904349 source:c:\users\mara\desktop\proiect\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<bits/stdc++.h>
+
